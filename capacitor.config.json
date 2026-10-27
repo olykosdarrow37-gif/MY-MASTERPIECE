@@ -1,0 +1,6 @@
+{
+  "appId": "com.scoiatael.player",
+  "appName": "BEWARE THE MAN OF TOMORROW!",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
